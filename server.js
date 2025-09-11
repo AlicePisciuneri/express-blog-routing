@@ -9,9 +9,6 @@ const port = 3000;
 
 
 
-
-
-
 // 3) middleware: qui Express legge il body JSON delle richieste
 app.use(express.json());
 
